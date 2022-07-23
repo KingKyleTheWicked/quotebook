@@ -1,0 +1,44 @@
+.quote {
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+justify-content: space-evenly;
+margin: 2px;
+padding: 5px;
+border:solid black
+}
+.quoteBlocks1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 2px;
+    padding: 5px;
+    background-color: rgb(100, 0, 0);
+    border:solid black
+}
+
+.quoteBlocks {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content:space-evenly;
+    margin: 2px;
+    padding: 5px;
+    background-color: darkgreen;
+    border: solid black;
+}
+ body {
+    background-size: auto;
+    background: url(https://img.wallpapersafari.com/desktop/1920/1080/95/73/0mlLW1.jpg);
+    background-repeat: no-repeat;
+
+ }
+ h1 {
+    color: aliceblue;
+    font-family: 'Star Jedi', arial;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+ }
+
+ 
